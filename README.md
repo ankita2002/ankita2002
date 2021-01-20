@@ -2,6 +2,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankita2002&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ankita2002&show_icons=true&theme=tokyonight)
+- 🌱 I’m currently learning DSA
+- 👯 I’m looking for internships based on Python & web desgining
+- 📫 How to reach me: mail me on ankitaupadhyaya209@gmail.com 
 
 <!--
 **ankita2002/ankita2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
