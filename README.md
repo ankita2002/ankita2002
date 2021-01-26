@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking for internships based on Python & web desgining
 - 📫 How to reach me: mail me on ankitaupadhyaya209@gmail.com 
+- Resume: https://ankita2002.github.io/Resume/
 
 <!--
 **ankita2002/ankita2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
