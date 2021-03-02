@@ -26,11 +26,19 @@
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankita2002&" alt="ankita2002" /></p>
 
-
 - 🌱 I’m currently a Computer Engineering Student 
 - 👯 I’m looking for internships based on Python & web desgining
 - 📫 How to reach me: mail me on ankitaupadhyaya209@gmail.com 
 - Resume: https://ankita2002.github.io/Resume/
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ankita-upadhyay-7239821a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="ankita-upadhyay-7239821a9" height="30" width="40" /></a>
+<a href="https://instagram.com/melek._ana" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="@melek._ana" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ankia2008" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="ankita2008" height="30" width="40" /></a>
+<a href="hackerrank" target="blank"><img align="center" src="" alt="yf" height="30" width="40" /></a>
+</p>
+
 
 <!--
 **ankita2002/ankita2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
