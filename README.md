@@ -2,7 +2,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankita2002&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ankita2002&show_icons=true&theme=tokyonight)
-- 🌱 I’m currently learning DSA
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankita2002&label=Profile%20views&color=0e75b6&style=flat" alt="ankita2002" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankita2002" alt="kiniankita2002" /></a> </p>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankita2002&" alt="ankita2002" /></p>
+
+
+- 🌱 I’m currently a Computer Engineering Student 
 - 👯 I’m looking for internships based on Python & web desgining
 - 📫 How to reach me: mail me on ankitaupadhyaya209@gmail.com 
 - Resume: https://ankita2002.github.io/Resume/
