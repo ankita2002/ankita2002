@@ -35,7 +35,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ankita-upadhyay-7239821a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" height="30" width="40" /></a>
 <a href="https://instagram.com/melek._ana" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ankia2008" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="codechef" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ankita2008" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="codechef" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ankitaupadhyaya2" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="Hackerrank" height="30" width="40" /></a>
 </p>
 
