@@ -18,6 +18,7 @@
   <a href="https://getbootstrap.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png" alt="Bootstrap" width="40" height="40"/> </a>
   <a href="https://cran.r-project.org/bin/windows/base/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a>
     <a href="https://sass-lang.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/> </a>
+  ![Visitor Count](https://profile-counter.glitch.me/ankita2002/count.svg)
   <a href="https://www.figma.com/" target="_blank"> <img src="https://miro.medium.com/max/1024/1*nUZs178q_SxL7NbW7mE10A.png" alt="figma" width="40" height="40"/> </a>
   <a href="https://www.canva.com/" target="_blank"> <img src="https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png" alt="canva" width="40" height="40"/> </a>
   <a href="https://bitcoin.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png" alt="Bitcoin" width="40" height="40"/> </a>
