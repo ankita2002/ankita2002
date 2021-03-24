@@ -2,6 +2,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankita2002&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ankita2002&show_icons=true&theme=tokyonight)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita2002 &layout=compact&theme=material-palenight" />
+</a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankita2002&label=Profile%20views&color=0e75b6&style=flat" alt="ankita2002" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankita2002" alt="kiniankita2002" /></a> </p>
 <p align="left"> 
