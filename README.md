@@ -31,6 +31,7 @@
 - 👯 I’m looking for internships based on Python & web desgining
 - 📫 How to reach me: mail me on ankitaupadhyaya209@gmail.com 
 - Resume: https://ankita2002.github.io/Resume/
+- Resume_ https://ankita2002.github.io/Resume-using-bootstap/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
