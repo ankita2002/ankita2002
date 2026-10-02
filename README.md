@@ -1,61 +1,87 @@
-### Hi there 👋
+Hi, I'm Ankita 👋
+AI/ML Researcher in the making • Software Engineer • ELIZA Scholar 🇩🇪
+I'm currently pursuing my M.Sc. in Artificial Intelligence & Machine Learning at TU Darmstadt, where I'm exploring how intelligent systems can learn, reason, and interact with people.
+Before diving deeper into AI, I spent 2+ years as a Software Engineer, building real-world web applications, APIs, collaborative systems, and automated testing pipelines. Today, I'm combining that engineering foundation with my interests in Deep Learning, NLP, Multimodal AI, LLMs, and Applied AI.
+- 🧠 Exploring Multimodal AI, LLMs & Explainable AI
+- 🔬 Interested in multimodal evaluation for AI tutoring systems
+- ⚡ I enjoy turning research ideas into systems that actually work
+- 🎓 ELIZA Scholar — Konrad Zuse School of Excellence in Learning and Intelligent Systems
+- 📍 Darmstadt, Germany
+- 🌱 Learning Deutsch 🇩🇪
+Building at the intersection of research, engineering, and real-world impact.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankita2002&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ankita2002&show_icons=true&theme=tokyonight)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankita2002&label=Profile%20views&color=0e75b6&style=flat" alt="ankita2002" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankita2002" alt="kiniankita2002" /></a> </p>
-<p align="left"> 
-  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://html.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML 5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png" alt="Bootstrap" width="40" height="40"/> </a>
-  <a href="https://cran.r-project.org/bin/windows/base/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a>
-    <a href="https://sass-lang.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://miro.medium.com/max/1024/1*nUZs178q_SxL7NbW7mE10A.png" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.canva.com/" target="_blank"> <img src="https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png" alt="canva" width="40" height="40"/> </a>
-  <a href="https://bitcoin.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png" alt="Bitcoin" width="40" height="40"/> </a>
-  <a href="https://ethereum.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/628px-Ethereum_logo_2014.svg.png" alt="Ethereum" width="40" height="40"/> </a>
-
+🛠️ Tech Stack
+AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankita2002&" alt="ankita2002" /></p>
 
-- 🌱 I’m currently a Computer Engineering Student
-- 👯 I’m looking for internships based on Python & web desgining
-- 📫 How to reach me: mail me on ankitaupadhyaya209@gmail.com 
-- Resume: https://ankita2002.github.io/Resume/
-- Resume_ https://ankita2002.github.io/Resume-using-bootstap/
+Deep Learning NLP Computer Vision Transformers LLMs Scikit-learn
+Software Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,flask,java,cs,php,mysql" />
+</p>
 
-<h3 align="left">Connect with me:</h3>
+Tools & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,linux" />
+</p>
+
+🔬 Research & Projects
+📈 Long-Horizon Multivariate Time Series Forecasting
+Developed and compared Residual GRU, N-HiTS, and TiDE architectures across 414,720 hourly observations and 96 time series.
+- Achieved 16.27% held-out test WAPE with TiDE
+- Reduced WAPE by 44.38% relative to N-HiTS
+- Built reusable training, checkpointing, validation, and inference pipelines
+
+
+
+
+🧠 Saathi — AI-Powered Mental Health Companion
+Built an NLP system using CNNs, Seq2Seq/LSTM, and multi-task learning, trained using 100,000+ Reddit posts.
+- 🏆 4th place nationally — IIT Bombay Research Conclave (RESCON)
+- 📄 Published at INSCIRD-2023
+- Built with a Flask REST API and React frontend
+📊 GitHub Analytics
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankita2002&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita2002&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=ankita2002&theme=tokyonight&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ankita2002&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8&row=1" />
+</p>
+
+📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankita2002&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+🌱 A Little More About Me
+I started out building software and gradually became fascinated by the intelligence behind it.
+That curiosity took me from full-stack development → computer vision & NLP → deep learning → multimodal and applied AI research.
+I still love the engineering side of AI — not just training a model, but figuring out how to turn it into something useful, reliable, and usable.
+🤝 Let's Connect
 <p align="left">
-<a href="https://www.linkedin.com/in/ankita-upadhyay-7239821a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/melek._ana" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ankita2008" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="codechef" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ankitaupadhyaya2" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="Hackerrank" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ankitaupa/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://ankita-upadhyay.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:ankitaupadhyayaa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-<h3>Visitors</h3>
 
-![Visitor Count](https://profile-counter.glitch.me/ankita2002/count.svg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ankita2002&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
+</p>
 
-
-<!--
-**ankita2002/ankita2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>Always learning. Always building. 🚀</i>
+</p>
