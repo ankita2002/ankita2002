@@ -42,23 +42,38 @@ Built an NLP system using CNNs, Seq2Seq/LSTM, and multi-task learning, trained u
 - 🏆 4th place nationally — IIT Bombay Research Conclave (RESCON)
 - 📄 Published at INSCIRD-2023
 - Built with a Flask REST API and React frontend
-📊 GitHub Analytics
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankita2002&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita2002&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" />
-</p>
+
+## 📊 At a Glance
+
+<table>
+<tr>
+<td align="center" width="25%">
+  <h2>2+ Years</h2>
+  <b>Software Engineering</b>
+</td>
+
+<td align="center" width="25%">
+  <h2>95+</h2>
+  <b>GitHub Repositories</b>
+</td>
+
+<td align="center" width="25%">
+  <h2>3</h2>
+  <b>Publications</b>
+</td>
+
+<td align="center" width="25%">
+  <h2>4th 🏆</h2>
+  <b>IIT Bombay RESCON</b>
+</td>
+</tr>
+</table>
+
+## ⚡ GitHub Activity
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=ankita2002&theme=tokyonight&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankita2002&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8&row=1" />
-</p>
-
-📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankita2002&theme=tokyo-night&hide_border=true" width="100%" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankita2002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=ankita2002&theme=tokyonight&hide_border=true" />
 </p>
 
 🌱 A Little More About Me
